@@ -2,7 +2,7 @@
 _To create a PR template with standard format for providing the problem statement, solution and checklist_
 
 ## Solution
-_Created a stand format for providing the problem statement, solution, references and checklist_
+_Created a standard format for providing the problem statement, solution, references and checklist_
 
 #### Open Questions/Comments and Pre-Merge TODOs
 - How will we record checklist responses in case of multiple assignees and reviewers?
