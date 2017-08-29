@@ -19,10 +19,11 @@ _Created a standard format for providing the problem statement, solution, refere
 - [ ] I have followed the commit convention: US1234:comment or DE123:comment
 - [ ] I have added the reviewers and assignee for merging the PR.
 - [ ] I have added the relevant documentation (if any) in Wiki and updated in UserStory.
-- [ ] I have updated the release checklist (if required) and requested OPS to review it.
+- [ ] I have added a step in the release checklist (if required) and requested OPS to review it.
 
 #### Assignee/Reviewer Checklist
 - [ ] I have reviewed whether all the functional requirements are met as per acceptance criteria.
-- [ ] I have reviewed the Coding standards and design.
+- [ ] I have reviewed the coding standards and design.
 - [ ] I have reviewed whether the SME has approved the PR (if required) in case it affects any other component.
 - [ ] I have reviewed the relevant documentation if any.
+- [ ] I have reviewed the release checklist step (if required).
