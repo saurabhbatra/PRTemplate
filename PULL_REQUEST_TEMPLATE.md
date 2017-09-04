@@ -1,16 +1,16 @@
 ## Problem Statement
-_To create a PR template with standard format for providing the problem statement, solution and checklist_
+<Provide a brief description of the problem statement you have addressed in this PR>
 
 ## Solution
-_Created a standard format for providing the problem statement, solution, references and checklist_
+<Provide a brief description of the Solution>
 
-#### Open Questions/Comments and Pre-Merge TODOs
-- How will we record checklist responses in case of multiple assignees and reviewers?
-- For now we assume that there will be same checklist for both assignees and reviewers.
-- TODO: Verify in RS component.
+#### Optional: Open Questions/Comments and Pre-Merge TODOs
+- <Provide the list of Open questions - If any>
+- <Provide any comments - If any>
+- <Provide any Pre-merge TODOs - If any>.
 
-#### References
-- [How to Pull Request](https://github.com/flexyford/pull-request) Github Repo with Learning focused Pull Request Template.
+#### Optional: References
+- <Any reference documentation like Wiki etc.>
 
 #### Developer Checklist
 - [ ] I have verified sonar violations on local box to ensure PR builder does not fails, if applicable.
