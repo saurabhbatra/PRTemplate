@@ -1,16 +1,16 @@
 ## Problem Statement
-<Provide a brief description of the problem statement you have addressed in this PR>
+<- Provide a brief description of the problem statement you have addressed in this PR ->
 
 ## Solution
-<Provide a brief description of the Solution>
+<- Provide a brief description of the Solution ->
 
-#### Optional: Open Questions/Comments and Pre-Merge TODOs
-- <Provide the list of Open questions - If any>
-- <Provide any comments - If any>
-- <Provide any Pre-merge TODOs - If any>.
+#### <- Optional -> Open Questions/Comments and Pre-Merge TODOs
+- <- Provide the list of Open questions - If any ->
+- <- Provide any comments - If any ->
+- <- Provide any Pre-merge TODOs - If any ->.
 
-#### Optional: References
-- <Any reference documentation like Wiki etc.>
+#### <- Optional -> References
+- <- Any reference documentation like Wiki etc. ->
 
 #### Developer Checklist
 - [ ] I have verified sonar violations on local box to ensure PR builder does not fails, if applicable.
